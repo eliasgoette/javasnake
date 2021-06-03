@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args){
         Window window = new Window();
-        window.editWindow(window.windowInstance);
+        window.editWindow(window.jFrameInstance);
     }
 }
